@@ -151,3 +151,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213638
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png",Tv Peru
 https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" group-title="General",ATV (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" group-title="News",ATV+ Noticias (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
